@@ -11,4 +11,4 @@ To run bot localy:
 ./kbot start
 ```
 
-Bot will be available [here](t.me/viktorabramov_bot)
+Bot will be available [here](https://t.me/viktorabramov_bot)
